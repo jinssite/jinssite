@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jin @jinssite
 - 👀 I’m interested in programming and know many programming languages
-- 🌱 I’m currently learning django and web developement
-- 💞️ I’m looking to collaborate on full-stack applications
+- 🌱 I’m learning django, react and web developement
+- 💞️ I’m looking to collaborate on software development (C++, Python, ...) and full-stack applications
 - 📫 You can reach me from this GitHub site
 
 <!---
